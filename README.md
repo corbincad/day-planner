@@ -17,9 +17,3 @@ Save your agenda for the work day.
 ## Multi-day Support
 * Check "multi-day" to enable support for other days.
 * Use the calendar to select a day.
-
-## View the Site on GitHub Pages
-[Day Planner](https://kgeary.github.io/third-party-apis/)
-
-## Screenshot
-![Day Planner](assets/img/screenshot.png)
